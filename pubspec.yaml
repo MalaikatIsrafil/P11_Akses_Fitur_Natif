@@ -55,7 +55,8 @@ dev_dependencies:
 
   image_picker: ^0.8.7+4
 
-
+  sqflite: any
+  path_provider: any
  
 
 
